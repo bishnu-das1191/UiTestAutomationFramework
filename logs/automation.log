@@ -1,0 +1,53 @@
+2025-01-24 00:38:54 [main] INFO com.ui.listeners.TestListner test suite started 
+2025-01-24 00:38:54 [main] INFO com.ui.pages.HomePage launching chrome browser 
+2025-01-24 00:38:55 [main] INFO com.ui.pages.HomePage visiting the website 
+2025-01-24 00:39:02 [main] INFO com.ui.listeners.TestListner LoginCSVTest 
+2025-01-24 00:39:02 [main] INFO com.ui.listeners.TestListner Verify valid user is able to login into the application 
+2025-01-24 00:39:02 [main] INFO com.ui.listeners.TestListner [e2e, sanity] 
+2025-01-24 00:39:02 [main] INFO com.ui.pages.HomePage trying to perform click to go to sign in page 
+2025-01-24 00:39:02 [main] INFO com.ui.pages.HomePage finding element with the locatorBy.xpath: //a[@title='Log in to your customer account'] 
+2025-01-24 00:39:02 [main] INFO com.ui.pages.HomePage element found and now performing click 
+2025-01-24 00:39:03 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //input[@id='email'] 
+2025-01-24 00:39:03 [main] INFO com.ui.pages.LogInPage element found and now enter textbishnu.test1@gmail.com 
+2025-01-24 00:39:03 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //input[@id='passwd'] 
+2025-01-24 00:39:03 [main] INFO com.ui.pages.LogInPage element found and now enter text54321 
+2025-01-24 00:39:03 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //button[@id='SubmitLogin'] 
+2025-01-24 00:39:03 [main] INFO com.ui.pages.LogInPage element found and now performing click 
+2025-01-24 00:39:04 [main] INFO com.ui.pages.MyAccountPage finding element with the locatorBy.xpath: //a[@title='View my customer account'] 
+2025-01-24 00:39:04 [main] INFO com.ui.pages.MyAccountPage element found and now returning the visible text 
+2025-01-24 00:39:04 [main] INFO com.ui.listeners.TestListner LoginCSVTest PASSED 
+2025-01-24 00:39:04 [main] INFO com.ui.pages.HomePage launching chrome browser 
+2025-01-24 00:39:05 [main] INFO com.ui.pages.HomePage visiting the website 
+2025-01-24 00:39:08 [main] INFO com.ui.listeners.TestListner LoginCSVTest 
+2025-01-24 00:39:08 [main] INFO com.ui.listeners.TestListner Verify valid user is able to login into the application 
+2025-01-24 00:39:08 [main] INFO com.ui.listeners.TestListner [e2e, sanity] 
+2025-01-24 00:39:08 [main] INFO com.ui.pages.HomePage trying to perform click to go to sign in page 
+2025-01-24 00:39:08 [main] INFO com.ui.pages.HomePage finding element with the locatorBy.xpath: //a[@title='Log in to your customer account'] 
+2025-01-24 00:39:08 [main] INFO com.ui.pages.HomePage element found and now performing click 
+2025-01-24 00:39:09 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //input[@id='email'] 
+2025-01-24 00:39:09 [main] INFO com.ui.pages.LogInPage element found and now enter textbishnu.test2@gmail.com 
+2025-01-24 00:39:09 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //input[@id='passwd'] 
+2025-01-24 00:39:09 [main] INFO com.ui.pages.LogInPage element found and now enter text54321 
+2025-01-24 00:39:09 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //button[@id='SubmitLogin'] 
+2025-01-24 00:39:09 [main] INFO com.ui.pages.LogInPage element found and now performing click 
+2025-01-24 00:39:10 [main] INFO com.ui.pages.MyAccountPage finding element with the locatorBy.xpath: //a[@title='View my customer account'] 
+2025-01-24 00:39:10 [main] INFO com.ui.pages.MyAccountPage element found and now returning the visible text 
+2025-01-24 00:39:10 [main] INFO com.ui.listeners.TestListner LoginCSVTest PASSED 
+2025-01-24 00:39:10 [main] INFO com.ui.pages.HomePage launching chrome browser 
+2025-01-24 00:39:11 [main] INFO com.ui.pages.HomePage visiting the website 
+2025-01-24 00:39:14 [main] INFO com.ui.listeners.TestListner LoginCSVTest 
+2025-01-24 00:39:14 [main] INFO com.ui.listeners.TestListner Verify valid user is able to login into the application 
+2025-01-24 00:39:14 [main] INFO com.ui.listeners.TestListner [e2e, sanity] 
+2025-01-24 00:39:14 [main] INFO com.ui.pages.HomePage trying to perform click to go to sign in page 
+2025-01-24 00:39:14 [main] INFO com.ui.pages.HomePage finding element with the locatorBy.xpath: //a[@title='Log in to your customer account'] 
+2025-01-24 00:39:14 [main] INFO com.ui.pages.HomePage element found and now performing click 
+2025-01-24 00:39:15 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //input[@id='email'] 
+2025-01-24 00:39:15 [main] INFO com.ui.pages.LogInPage element found and now enter textbishnu.test3@gmail.com 
+2025-01-24 00:39:15 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //input[@id='passwd'] 
+2025-01-24 00:39:15 [main] INFO com.ui.pages.LogInPage element found and now enter text54321 
+2025-01-24 00:39:15 [main] INFO com.ui.pages.LogInPage finding element with the locatorBy.xpath: //button[@id='SubmitLogin'] 
+2025-01-24 00:39:15 [main] INFO com.ui.pages.LogInPage element found and now performing click 
+2025-01-24 00:39:16 [main] INFO com.ui.pages.MyAccountPage finding element with the locatorBy.xpath: //a[@title='View my customer account'] 
+2025-01-24 00:39:16 [main] INFO com.ui.pages.MyAccountPage element found and now returning the visible text 
+2025-01-24 00:39:16 [main] INFO com.ui.listeners.TestListner LoginCSVTest PASSED 
+2025-01-24 00:39:16 [main] INFO com.ui.listeners.TestListner test suite completed 
